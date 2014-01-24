@@ -1,4 +1,4 @@
-# Ginger Tea
+# GingerTea
 
 Good for cold
 
