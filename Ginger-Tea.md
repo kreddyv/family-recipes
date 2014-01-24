@@ -1,5 +1,5 @@
 # Ginger Tea
 
-## Ingred
+## Ingredients
 
 ## Instructions
