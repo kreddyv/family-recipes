@@ -1,5 +1,13 @@
 # Ginger Tea
+
 Good for cold
+
 ## Ingredients
 
-## Instructions
+* 1cup Milk
+* Little Water
+* Few pieces of Ginger
+* Tea bag
+* To taste Sugar
+
+## Directions
